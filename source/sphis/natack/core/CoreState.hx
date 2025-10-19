@@ -1,8 +1,8 @@
-package sphis.natack;
+package sphis.natack.core;
 
 import flixel.FlxState;
 
-class PlayState extends FlxState
+class CoreState extends FlxState
 {
 	override public function create()
 	{
